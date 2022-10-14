@@ -1,0 +1,39 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    width: 20%;
+}
+
+.container {
+    display: grid;
+}
+
+
+.column {
+    float: left;
+    padding-left: 10px;
+}
+
+#denti{
+    padding-top: 100px;
+}
+
+#denti1{
+   padding-top: 350px;
+}
+
+#Frame{
+    padding-top: 150px;
+}
+
+#Frame186{
+    padding-bottom: 350px;
+}
+
+#Frame188_1{
+    padding-top: 90px;
+}
+
+#submenu-item{
+    padding-top:30px;
+}
